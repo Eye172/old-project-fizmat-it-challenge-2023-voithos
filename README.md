@@ -68,3 +68,8 @@ You will also need [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) i
 ---
 
 *Submitted to Fizmat IT Challenge 2023 · RFMSH · Software track*
+
+
+---
+
+<sub>Account history: Magitcian172 → Eye172 (same developer). [Authorship note](AUTHORSHIP.md).</sub>
